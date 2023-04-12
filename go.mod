@@ -1,4 +1,4 @@
-module github.com/NectGmbH/go-dsp
+module github.com/8ff/go-dsp
 
 go 1.18
 
